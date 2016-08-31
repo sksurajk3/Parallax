@@ -25,7 +25,7 @@ overflow: hidden;
     opacity: 0;
 }
 .moon{
-    background-image: url(moon.png);
+    background-image: url(https://kushalexpert.github.io/Parallax/moon.png);
     background-repeat: no-repeat;
     margin: auto;
     top: 0;
@@ -61,7 +61,7 @@ overflow: hidden;
     overflow: hidden;
  z-index: 70;
     
-    background: transparent url(stars.png) repeat-x;
+    background: transparent url(https://kushalexpert.github.io/Parallax/stars.png) repeat-x;
 
 }
 .grass { 
@@ -72,7 +72,7 @@ overflow: hidden;
     width: 150%;
    top: auto!important;
     height: 110px;
-    background: transparent url(grass.png) repeat-x;
+    background: transparent url(https://kushalexpert.github.io/Parallax/grass.png) repeat-x;
 
 }
 .owl {
@@ -82,7 +82,7 @@ overflow: hidden;
     z-index: 200;
 }
 .balloon{
-    background-image: url(balloon.png);
+    background-image: url(https://kushalexpert.github.io/Parallax/balloon.png);
     width: 273px;
     height: 181px;
     background-repeat: no-repeat;
