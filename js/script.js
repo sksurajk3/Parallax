@@ -1,10 +1,10 @@
 var slider;
 var images = [
-"balloon.png",
-"stars.png",
-"grass.png",
-"owl.png",
-"moon.png"
+"https://kushalexpert.github.io/Parallax/balloon.png",
+"https://kushalexpert.github.io/Parallax/stars.png",
+"https://kushalexpert.github.io/Parallax/grass.png",
+"https://kushalexpert.github.io/Parallax/owl.png",
+"https://kushalexpert.github.io/Parallax/moon.png"
 ];
 
 var index = 0;
